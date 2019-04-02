@@ -1,51 +1,22 @@
-h1
-{
+body{
+	font-family: "Segoe UI",Arial,sans-serif;
+	font-size: 30px;
 	text-align: center;
-	color: white;
-	font-weight: bold;
-	font-size: 	25px;
-	float: center;
-	padding: 65px 32px;
-
+	background-color:  #ffffff;
+	padding: 300px 25px;
+	font-weight: 400;
 
 }
 
-img
-{
-	float: right;
-	border-radius: 5px;
-	box-shadow: 10px 5px 5px #888888;
-}
-
-input
-{
+a{
 	padding: 15px 32px;
 	border-radius: 5px;
 	font-size: 15px;
 	background-color: rgb(0, 159, 21);
-	box-shadow: 10px 5px 5px #888888;
-
-}
-
-#nav
-{
-	margin: 4em auto;
-  width: 350px;
-  height: 150px;
-  border: 0px solid;
-	border-radius: 15px;
-	box-shadow: 10px 10px 5px #888888;
-	background-color: rgb(0, 159, 21);
-
-
+	box-shadow: 5px 5px 5px #888888;
+	color: #FFFFFF;
+	text-decoration: none;
 }
 
 
-}
 
-body
-{
-	font-family: "Times New Roman", Times, serif;
-
-	background-color: lightblue;
-}
